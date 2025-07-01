@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Giga&pause=3000&color=B8F900&size=35&center=true&vCenter=true&width=1000&lines=Prazer!+Meu+nome+%C3%A9+Joseph)](https://git.io/typing-svg)
 
 <br/>
+<br/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JosephGITjm&show_icons=true&count_private=true&hide_border=true&title_color=B3D400&icon_color=B3D400&text_color=c9d1d9&bg_color=0d1117" alt="Joseph Ali Galarraga github stats"/> 
@@ -11,10 +12,17 @@
 
 <br/>
 
-<div align="center">  
-<a href="https://www.instagram.com/joseph_gjm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-B3D400?style=for-the-badge&logo=instagram&logoColor=black"</a>
-</div> 
- 
+<div align="center">
+
+[![instagram](https://img.shields.io/badge/instagram-B3D400?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/joseph_gjm/)
+[![linkedin](https://img.shields.io/badge/linkedin-B3D400?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/joseph-a-galarraga-jiménez-403971236/ )
+[![Discord](https://img.shields.io/badge/Discord-B3D400?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/channels/joseph_disc22)
+[![E-mail](https://img.shields.io/badge/Gmail-B3D400?style=for-the-badge&logo=gmail&logoColor=black)](mailto:joseph.galajim@gmail.com)
+
+</div>
+<br/>
+
+
 ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/Html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
